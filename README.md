@@ -1,4 +1,4 @@
-#SSR-qt5
+# SSR-qt5
 
 Qt 编写的 SSR 客户端，调用 ssrr-local 和 socks2http。
 目前功能仅供自用。
